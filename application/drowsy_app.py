@@ -16,7 +16,8 @@ ctk.set_appearance_mode("dark")
 
 vidFrame = tk.Frame(height=400, width=600)
 vidFrame.pack()
-vid = ctk.CTkLabel(master=vidFrame)
+blank_image = ImageTk.PhotoImage(Image.new('RGB', (600, 400), (0, 0, 0)))
+vid = ctk.CTkLabel(master=vidFrame, image=blank_image, text="")
 vid.pack()
 
 # Counter and Reset Button
@@ -63,7 +64,7 @@ def detect():
         dconf = results.xywh[0][0][4]
         dclass = results.xywh[0][0][5]
 
-        if dconf.item() > 0.50 and dclass.item() == 16.0:
+        if dconf.item() > 0.85 and dclass.item() == 16.0:
             filechoice = random.choice([1,2,3])
             p = vlc.MediaPlayer(f"file:///{filechoice}.wav")
             p.play()
