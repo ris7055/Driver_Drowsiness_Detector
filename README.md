@@ -74,10 +74,6 @@ Nicolas Perera Niru Roy
 Dhaka, Bangladesh 
 nicolaspereraniruroy2001@gmail.com 
 
-Azizar Mohammad Sadmam Sobhan
-Kuala Lumpur, Malaysia
-sasadmamaziz@gmail.com 
-
 Keiko Prakoso
 Kuala Lumpur, Malaysia
 keikorafi@gmail.com 
