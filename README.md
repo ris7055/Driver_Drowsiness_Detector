@@ -62,28 +62,28 @@ That's all! Thank you!
 
 ## Author
 
-MD Raffaul Islam
-Kuala Lumpur, Malaysia
+MD Raffaul Islam <br>
+Kuala Lumpur, Malaysia <br>
 raffaul7055@gmail.com
 
-Azizar Mohammad Sadmam Sobhan
-Kuala Lumpur, Malaysia
+Azizar Mohammad Sadmam Sobhan <br>
+Kuala Lumpur, Malaysia <br>
 sasadmamaziz@gmail.com 
 
-Nicolas Perera Niru Roy 
-Dhaka, Bangladesh 
+Nicolas Perera Niru Roy <br>
+Dhaka, Bangladesh <br>
 nicolaspereraniruroy2001@gmail.com 
 
-Keiko Prakoso
-Kuala Lumpur, Malaysia
+Keiko Prakoso <br>
+Kuala Lumpur, Malaysia <br>
 keikorafi@gmail.com 
 
-Bimo Kuncoro Yakti Prasetijo
-Petaling Jaya, Malaysia
+Bimo Kuncoro Yakti Prasetijo <br>
+Petaling Jaya, Malaysia <br>
 bimokuncoroyaktiprasetijo@gmail.com 
 
-Muhammad Raditya Nayatama
-Kuala Lumpur, Malaysia
+Muhammad Raditya Nayatama <br>
+Kuala Lumpur, Malaysia <br>
 radityanayatama@gmail.com 
 
 
