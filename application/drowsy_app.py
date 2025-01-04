@@ -14,11 +14,18 @@ app.geometry("600x600")
 app.title("Driver Drowsiness Detector")
 ctk.set_appearance_mode("dark")
 
+#initial height=400, width=600
 vidFrame = tk.Frame(height=400, width=600)
 vidFrame.pack()
 blank_image = ImageTk.PhotoImage(Image.new('RGB', (600, 400), (0, 0, 0)))
 vid = ctk.CTkLabel(master=vidFrame, image=blank_image, text="")
 vid.pack()
+
+# Initialize webcams():
+#vid = ctk.CTkLabel(master=vidFrame)
+#blank_image = ImageTk.PhotoImage(Image.new('RGB', (600, 400), (0, 0, 0)))
+#vid = ctk.CTkLabel(master=vidFrame, image=blank_image, text="")
+
 
 # Counter and Reset Button
 counter = 0
