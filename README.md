@@ -81,7 +81,7 @@ The detection is performed via a live video stream, processed in real time, and 
 
 ```
 Test case 2: Bright Lighting effect
-Detection: State_Awake
+Detection: State_Yawn
 ```
 <img src="/outcomes/yawn_state.png" alt="Yawn_State.png" width="400" height="400">
 
